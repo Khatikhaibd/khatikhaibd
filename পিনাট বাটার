@@ -1,0 +1,10 @@
+<div class="card">
+  <img src="assets/peanut_butter.jpg" alt="পিনাট বাটার">
+  <h3>পিনাট বাটার</h3>
+  <div class="price-list">
+    <p>১ কেজি - ১০৫০ টাকা</p>
+    <p>২৫০ গ্রাম – ৩০০ টাকা</p>
+    <p>৫০০ গ্রাম – ৫৫০ টাকা</p>
+  </div>
+  <a class="btn" href="https://wa.me/8801791377678?text=আমি পিনাট বাটার অর্ডার করতে চাই">Order Now</a>
+</div>
